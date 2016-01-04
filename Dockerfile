@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND "noninteractive"
 
 # Install usual dependencies and "nice to have", followed by cleanup
 RUN apt-get update -q && \
-    apt-get -y upgrade && \
+    apt-get upgrade -qy && \
     apt-get install -qy \
         build-essential \
         software-properties-common \
