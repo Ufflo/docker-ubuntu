@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:16.04
 MAINTAINER Olof Nilsson <olof@drp.nu>
 
 # Workaround to get rid of ugly red text when building from Dockerfile

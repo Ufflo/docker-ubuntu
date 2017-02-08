@@ -1,8 +1,5 @@
 # Ubuntu LTS
 
-[![Image Layers](https://img.shields.io/imagelayers/layers/ufflo/ubuntu/latest.svg?style=plastic)](https://imagelayers.io/?images=ufflo/ubuntu:latest)
-[![Image Size](https://img.shields.io/imagelayers/image-size/ufflo/ubuntu/latest.svg?style=plastic)](https://imagelayers.io/?images=ufflo/ubuntu:latest)
-[![Docker Pulls](https://img.shields.io/docker/pulls/ufflo/ubuntu.svg?style=plastic)]()
-[![Docker Stars](https://img.shields.io/docker/stars/ufflo/ubuntu.svg?style=plastic)]()
+[![Image Size/Layers](https://badge.imagelayers.io/ufflo/ubuntu:latest.svg)]()
 
 Ubuntu LTS with additions
